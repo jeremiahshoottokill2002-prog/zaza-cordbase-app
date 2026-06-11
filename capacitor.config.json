@@ -1,0 +1,9 @@
+{
+  "appId": "com.zaza.chordroll",
+  "appName": "ChordRoll",
+  "webDir": "www",
+  "backgroundColor": "#1f2225",
+  "android": {
+    "allowMixedContent": false
+  }
+}

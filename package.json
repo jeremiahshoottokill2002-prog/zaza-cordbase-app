@@ -1,0 +1,14 @@
+{
+  "name": "chordroll",
+  "version": "1.0.0",
+  "description": "Chord progressions for every genre, FL Studio piano roll style",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.4.0",
+    "@capacitor/cli": "^8.4.0",
+    "@capacitor/core": "^8.4.0"
+  }
+}
